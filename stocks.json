@@ -1,0 +1,2702 @@
+[
+    {
+        "Rank": "1",
+        "Name": "RELIANCE",
+        "Sub-Sector": "Oil & Gas - Refining & Marketing",
+        "Market Cap": "1,646,280.82",
+        "Alpha": "-4.92",
+        "Beta": "1",
+        "EPS (Q)": "13.7"
+    },
+    {
+        "Rank": "2",
+        "Name": "TCS",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "1,429,198.84",
+        "Alpha": "-4.08",
+        "Beta": "0.61",
+        "EPS (Q)": "34.21"
+    },
+    {
+        "Rank": "3",
+        "Name": "HDFCBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "1,305,732.67",
+        "Alpha": "-5.04",
+        "Beta": "1.1",
+        "EPS (Q)": "23.11"
+    },
+    {
+        "Rank": "4",
+        "Name": "BHARTIARTL",
+        "Sub-Sector": "Telecom Services",
+        "Market Cap": "1,024,337.67",
+        "Alpha": "22.87",
+        "Beta": "0.64",
+        "EPS (Q)": "25.54"
+    },
+    {
+        "Rank": "5",
+        "Name": "ICICIBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "884,118.39",
+        "Alpha": "7.85",
+        "Beta": "1.27",
+        "EPS (Q)": "18.26"
+    },
+    {
+        "Rank": "6",
+        "Name": "INFY",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "771,733.06",
+        "Alpha": "-3.33",
+        "Beta": "0.81",
+        "EPS (Q)": "16.43"
+    },
+    {
+        "Rank": "7",
+        "Name": "SBIN",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "654,308.52",
+        "Alpha": "2.83",
+        "Beta": "1.3",
+        "EPS (Q)": "21.12"
+    },
+    {
+        "Rank": "8",
+        "Name": "HINDUNILVR",
+        "Sub-Sector": "FMCG - Household Products",
+        "Market Cap": "548,042.16",
+        "Alpha": "-4.42",
+        "Beta": "0.31",
+        "EPS (Q)": "12.7"
+    },
+    {
+        "Rank": "9",
+        "Name": "ITC",
+        "Sub-Sector": "FMCG - Tobacco",
+        "Market Cap": "512,886.53",
+        "Alpha": "18.36",
+        "Beta": "0.61",
+        "EPS (Q)": "3.74"
+    },
+    {
+        "Rank": "10",
+        "Name": "BAJFINANCE",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "508,679.52",
+        "Alpha": "-3.73",
+        "Beta": "1.89",
+        "EPS (Q)": "68.63"
+    },
+    {
+        "Rank": "11",
+        "Name": "LICI",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "494,867.82",
+        "Alpha": "-7.75",
+        "Beta": "-",
+        "EPS (Q)": "17.4"
+    },
+    {
+        "Rank": "12",
+        "Name": "HCLTECH",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "465,434.55",
+        "Alpha": "7.93",
+        "Beta": "0.9",
+        "EPS (Q)": "16.94"
+    },
+    {
+        "Rank": "13",
+        "Name": "LT",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "452,384.45",
+        "Alpha": "10.17",
+        "Beta": "1.1",
+        "EPS (Q)": "24.43"
+    },
+    {
+        "Rank": "14",
+        "Name": "SUNPHARMA",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "406,411.35",
+        "Alpha": "18.34",
+        "Beta": "0.74",
+        "EPS (Q)": "12.1"
+    },
+    {
+        "Rank": "15",
+        "Name": "MARUTI",
+        "Sub-Sector": "Four Wheelers",
+        "Market Cap": "397,893.75",
+        "Alpha": "7.43",
+        "Beta": "0.87",
+        "EPS (Q)": "118.54"
+    },
+    {
+        "Rank": "16",
+        "Name": "KOTAKBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "386,494.23",
+        "Alpha": "-3.87",
+        "Beta": "0.94",
+        "EPS (Q)": "23.64"
+    },
+    {
+        "Rank": "17",
+        "Name": "M&M",
+        "Sub-Sector": "Four Wheelers",
+        "Market Cap": "358,218.84",
+        "Alpha": "33.19",
+        "Beta": "1.24",
+        "EPS (Q)": "28.51"
+    },
+    {
+        "Rank": "18",
+        "Name": "ULTRACEMCO",
+        "Sub-Sector": "Cement",
+        "Market Cap": "330,761.91",
+        "Alpha": "7.25",
+        "Beta": "0.92",
+        "EPS (Q)": "50.99"
+    },
+    {
+        "Rank": "19",
+        "Name": "WIPRO",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "324,457.10",
+        "Alpha": "-4.04",
+        "Beta": "0.59",
+        "EPS (Q)": "3.21"
+    },
+    {
+        "Rank": "20",
+        "Name": "AXISBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "311,737.58",
+        "Alpha": "-0.44",
+        "Beta": "1.51",
+        "EPS (Q)": "21.79"
+    },
+    {
+        "Rank": "21",
+        "Name": "ONGC",
+        "Sub-Sector": "Oil & Gas - Exploration & Production",
+        "Market Cap": "298,655.83",
+        "Alpha": "9.05",
+        "Beta": "0.98",
+        "EPS (Q)": "6.85"
+    },
+    {
+        "Rank": "22",
+        "Name": "NTPC",
+        "Sub-Sector": "Power Generation",
+        "Market Cap": "296,960.40",
+        "Alpha": "21.99",
+        "Beta": "0.89",
+        "EPS (Q)": "5.22"
+    },
+    {
+        "Rank": "23",
+        "Name": "TITAN",
+        "Sub-Sector": "Precious Metals, Jewellery & Watches",
+        "Market Cap": "288,773.15",
+        "Alpha": "0.73",
+        "Beta": "1.09",
+        "EPS (Q)": "11.8"
+    },
+    {
+        "Rank": "24",
+        "Name": "BAJAJFINSV",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "285,265.43",
+        "Alpha": "-5.59",
+        "Beta": "1.95",
+        "EPS (Q)": "14"
+    },
+    {
+        "Rank": "25",
+        "Name": "ADANIENT",
+        "Sub-Sector": "Commodities Trading",
+        "Market Cap": "271,630.66",
+        "Alpha": "13.3",
+        "Beta": "1.4",
+        "EPS (Q)": "0.04"
+    },
+    {
+        "Rank": "26",
+        "Name": "TATAMOTORS",
+        "Sub-Sector": "Four Wheelers",
+        "Market Cap": "251,922.18",
+        "Alpha": "2.56",
+        "Beta": "1.65",
+        "EPS (Q)": "14.81"
+    },
+    {
+        "Rank": "27",
+        "Name": "ADANIPORTS",
+        "Sub-Sector": "Ports",
+        "Market Cap": "243,868.89",
+        "Alpha": "9.09",
+        "Beta": "1.17",
+        "EPS (Q)": "11.67"
+    },
+    {
+        "Rank": "28",
+        "Name": "BAJAJ-AUTO",
+        "Sub-Sector": "Two Wheelers",
+        "Market Cap": "243,278.06",
+        "Alpha": "24.43",
+        "Beta": "1.09",
+        "EPS (Q)": "78.7"
+    },
+    {
+        "Rank": "29",
+        "Name": "HAL",
+        "Sub-Sector": "Aerospace & Defense Equipments",
+        "Market Cap": "240,367.77",
+        "Alpha": "49.86",
+        "Beta": "1.14",
+        "EPS (Q)": "21.53"
+    },
+    {
+        "Rank": "30",
+        "Name": "DMART",
+        "Sub-Sector": "Retail - Department Stores",
+        "Market Cap": "240,113.99",
+        "Alpha": "-9.37",
+        "Beta": "0.76",
+        "EPS (Q)": "11.12"
+    },
+    {
+        "Rank": "31",
+        "Name": "POWERGRID",
+        "Sub-Sector": "Power Transmission & Distribution",
+        "Market Cap": "239,072.02",
+        "Alpha": "15.35",
+        "Beta": "0.66",
+        "EPS (Q)": "4.15"
+    },
+    {
+        "Rank": "32",
+        "Name": "JSWSTEEL",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "233,356.18",
+        "Alpha": "6.5",
+        "Beta": "1.26",
+        "EPS (Q)": "2.94"
+    },
+    {
+        "Rank": "33",
+        "Name": "COALINDIA",
+        "Sub-Sector": "Mining - Coal",
+        "Market Cap": "222,073.92",
+        "Alpha": "21.84",
+        "Beta": "0.8",
+        "EPS (Q)": "13.8"
+    },
+    {
+        "Rank": "34",
+        "Name": "ASIANPAINT",
+        "Sub-Sector": "Paints",
+        "Market Cap": "213,626.22",
+        "Alpha": "-19.34",
+        "Beta": "0.76",
+        "EPS (Q)": "11.58"
+    },
+    {
+        "Rank": "35",
+        "Name": "NESTLEIND",
+        "Sub-Sector": "FMCG - Foods",
+        "Market Cap": "211,511.98",
+        "Alpha": "1.85",
+        "Beta": "0.41",
+        "EPS (Q)": "7.14"
+    },
+    {
+        "Rank": "36",
+        "Name": "ZOMATO",
+        "Sub-Sector": "Online Services",
+        "Market Cap": "194,624.83",
+        "Alpha": "29.42",
+        "Beta": "1.09",
+        "EPS (Q)": "0.07"
+    },
+    {
+        "Rank": "37",
+        "Name": "ADANIPOWER",
+        "Sub-Sector": "Power Generation",
+        "Market Cap": "193,521.91",
+        "Alpha": "47.59",
+        "Beta": "1.14",
+        "EPS (Q)": "7.67"
+    },
+    {
+        "Rank": "38",
+        "Name": "BEL",
+        "Sub-Sector": "Electronic Equipments",
+        "Market Cap": "189,432.92",
+        "Alpha": "39.58",
+        "Beta": "0.62",
+        "EPS (Q)": "1.79"
+    },
+    {
+        "Rank": "39",
+        "Name": "TRENT",
+        "Sub-Sector": "Retail - Apparel",
+        "Market Cap": "186,179.45",
+        "Alpha": "49.18",
+        "Beta": "1.24",
+        "EPS (Q)": "13.99"
+    },
+    {
+        "Rank": "40",
+        "Name": "SIEMENS",
+        "Sub-Sector": "Conglomerates",
+        "Market Cap": "185,152.39",
+        "Alpha": "20.35",
+        "Beta": "0.78",
+        "EPS (Q)": "17.26"
+    },
+    {
+        "Rank": "41",
+        "Name": "VBL",
+        "Sub-Sector": "Soft Drinks",
+        "Market Cap": "180,755.09",
+        "Alpha": "46.27",
+        "Beta": "1.27",
+        "EPS (Q)": "0.56"
+    },
+    {
+        "Rank": "42",
+        "Name": "HINDZINC",
+        "Sub-Sector": "Mining - Diversified",
+        "Market Cap": "177,611.28",
+        "Alpha": "9.89",
+        "Beta": "0.54",
+        "EPS (Q)": "6.34"
+    },
+    {
+        "Rank": "43",
+        "Name": "IOC",
+        "Sub-Sector": "Oil & Gas - Refining & Marketing",
+        "Market Cap": "170,047.95",
+        "Alpha": "7.11",
+        "Beta": "0.95",
+        "EPS (Q)": "1.54"
+    },
+    {
+        "Rank": "44",
+        "Name": "LTIM",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "169,012.35",
+        "Alpha": "-8.21",
+        "Beta": "1.14",
+        "EPS (Q)": "36.65"
+    },
+    {
+        "Rank": "45",
+        "Name": "GRASIM",
+        "Sub-Sector": "Cement",
+        "Market Cap": "168,593.23",
+        "Alpha": "3.38",
+        "Beta": "0.94",
+        "EPS (Q)": "13.47"
+    },
+    {
+        "Rank": "46",
+        "Name": "DLF",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "168,333.57",
+        "Alpha": "10.62",
+        "Beta": "1.31",
+        "EPS (Q)": "4.28"
+    },
+    {
+        "Rank": "47",
+        "Name": "INDIGO",
+        "Sub-Sector": "Airlines",
+        "Market Cap": "167,610.85",
+        "Alpha": "16.9",
+        "Beta": "0.91",
+        "EPS (Q)": "63.38"
+    },
+    {
+        "Rank": "48",
+        "Name": "TATASTEEL",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "165,132.16",
+        "Alpha": "-4.14",
+        "Beta": "1.44",
+        "EPS (Q)": "0.26"
+    },
+    {
+        "Rank": "49",
+        "Name": "VEDL",
+        "Sub-Sector": "Metals - Diversified",
+        "Market Cap": "164,794.80",
+        "Alpha": "-1.11",
+        "Beta": "1.63",
+        "EPS (Q)": "9.09"
+    },
+    {
+        "Rank": "50",
+        "Name": "TECHM",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "164,463.96",
+        "Alpha": "1.01",
+        "Beta": "0.92",
+        "EPS (Q)": "11.1"
+    },
+    {
+        "Rank": "51",
+        "Name": "IRFC",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "163,813.72",
+        "Alpha": "61.25",
+        "Beta": "0.9",
+        "EPS (Q)": "1.25"
+    },
+    {
+        "Rank": "52",
+        "Name": "DIVISLAB",
+        "Sub-Sector": "Labs & Life Sciences Services",
+        "Market Cap": "158,480.76",
+        "Alpha": "10.02",
+        "Beta": "0.59",
+        "EPS (Q)": "22.2"
+    },
+    {
+        "Rank": "53",
+        "Name": "SBILIFE",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "145,518.35",
+        "Alpha": "2.22",
+        "Beta": "1.01",
+        "EPS (Q)": "5.5"
+    },
+    {
+        "Rank": "54",
+        "Name": "ADANIGREEN",
+        "Sub-Sector": "Renewable Energy",
+        "Market Cap": "145,239.94",
+        "Alpha": "-13.87",
+        "Beta": "1.3",
+        "EPS (Q)": "2.92"
+    },
+    {
+        "Rank": "55",
+        "Name": "JIOFIN",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "144,610.21",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "0.46"
+    },
+    {
+        "Rank": "56",
+        "Name": "PIDILITIND",
+        "Sub-Sector": "Diversified Chemicals",
+        "Market Cap": "143,870.96",
+        "Alpha": "-1.82",
+        "Beta": "0.69",
+        "EPS (Q)": "10.86"
+    },
+    {
+        "Rank": "57",
+        "Name": "HDFCLIFE",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "135,409.63",
+        "Alpha": "-0.98",
+        "Beta": "0.83",
+        "EPS (Q)": "1.96"
+    },
+    {
+        "Rank": "58",
+        "Name": "HINDALCO",
+        "Sub-Sector": "Metals - Aluminium",
+        "Market Cap": "133,939.39",
+        "Alpha": "-2.16",
+        "Beta": "1.8",
+        "EPS (Q)": "17.59"
+    },
+    {
+        "Rank": "59",
+        "Name": "EICHERMOT",
+        "Sub-Sector": "Trucks & Buses",
+        "Market Cap": "132,947.85",
+        "Alpha": "13.31",
+        "Beta": "0.76",
+        "EPS (Q)": "42.7"
+    },
+    {
+        "Rank": "60",
+        "Name": "BAJAJHLDNG",
+        "Sub-Sector": "Asset Management",
+        "Market Cap": "132,184.41",
+        "Alpha": "22.49",
+        "Beta": "1.32",
+        "EPS (Q)": "157.1"
+    },
+    {
+        "Rank": "61",
+        "Name": "AMBUJACEM",
+        "Sub-Sector": "Cement",
+        "Market Cap": "123,427.12",
+        "Alpha": "9.34",
+        "Beta": "0.75",
+        "EPS (Q)": "8.59"
+    },
+    {
+        "Rank": "62",
+        "Name": "PFC",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "123,374.30",
+        "Alpha": "38.91",
+        "Beta": "1.12",
+        "EPS (Q)": "17.66"
+    },
+    {
+        "Rank": "63",
+        "Name": "BRITANNIA",
+        "Sub-Sector": "FMCG - Foods",
+        "Market Cap": "118,466.25",
+        "Alpha": "7.98",
+        "Beta": "0.63",
+        "EPS (Q)": "24.15"
+    },
+    {
+        "Rank": "64",
+        "Name": "TVSMOTOR",
+        "Sub-Sector": "Two Wheelers",
+        "Market Cap": "118,373.08",
+        "Alpha": "35.97",
+        "Beta": "0.63",
+        "EPS (Q)": "11.91"
+    },
+    {
+        "Rank": "65",
+        "Name": "CIPLA",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "117,039.43",
+        "Alpha": "12.88",
+        "Beta": "0.41",
+        "EPS (Q)": "19.45"
+    },
+    {
+        "Rank": "66",
+        "Name": "LODHA",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "116,946.94",
+        "Alpha": "15.07",
+        "Beta": "0.79",
+        "EPS (Q)": "9.48"
+    },
+    {
+        "Rank": "67",
+        "Name": "ABB",
+        "Sub-Sector": "Heavy Electrical Equipments",
+        "Market Cap": "115,480.53",
+        "Alpha": "29.97",
+        "Beta": "0.97",
+        "EPS (Q)": "20.79"
+    },
+    {
+        "Rank": "68",
+        "Name": "CHOLAFIN",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "113,669.65",
+        "Alpha": "16.04",
+        "Beta": "1.72",
+        "EPS (Q)": "12.95"
+    },
+    {
+        "Rank": "69",
+        "Name": "TATAPOWER",
+        "Sub-Sector": "Power Transmission & Distribution",
+        "Market Cap": "111,229.77",
+        "Alpha": "5.8",
+        "Beta": "1.24",
+        "EPS (Q)": "3.22"
+    },
+    {
+        "Rank": "70",
+        "Name": "BPCL",
+        "Sub-Sector": "Oil & Gas - Refining & Marketing",
+        "Market Cap": "110,892.20",
+        "Alpha": "5.24",
+        "Beta": "1.14",
+        "EPS (Q)": "8.91"
+    },
+    {
+        "Rank": "71",
+        "Name": "PNB",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "109,952.99",
+        "Alpha": "22.89",
+        "Beta": "1.24",
+        "EPS (Q)": "4.18"
+    },
+    {
+        "Rank": "72",
+        "Name": "BANKBARODA",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "109,912.13",
+        "Alpha": "14.2",
+        "Beta": "1.2",
+        "EPS (Q)": "10.08"
+    },
+    {
+        "Rank": "73",
+        "Name": "GODREJCP",
+        "Sub-Sector": "FMCG - Personal Products",
+        "Market Cap": "109,743.18",
+        "Alpha": "5.67",
+        "Beta": "0.48",
+        "EPS (Q)": "4.87"
+    },
+    {
+        "Rank": "74",
+        "Name": "RECLTD",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "107,448.71",
+        "Alpha": "45.09",
+        "Beta": "1.07",
+        "EPS (Q)": "15.48"
+    },
+    {
+        "Rank": "75",
+        "Name": "GAIL",
+        "Sub-Sector": "Gas Distribution",
+        "Market Cap": "105,043.47",
+        "Alpha": "13.9",
+        "Beta": "1.36",
+        "EPS (Q)": "6.21"
+    },
+    {
+        "Rank": "76",
+        "Name": "INDHOTEL",
+        "Sub-Sector": "Hotels, Resorts & Cruise Lines",
+        "Market Cap": "104,081.36",
+        "Alpha": "35.07",
+        "Beta": "1.19",
+        "EPS (Q)": "4.09"
+    },
+    {
+        "Rank": "77",
+        "Name": "TORNTPHARM",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "103,560.92",
+        "Alpha": "26.08",
+        "Beta": "0.56",
+        "EPS (Q)": "14.88"
+    },
+    {
+        "Rank": "78",
+        "Name": "SHRIRAMFIN",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "102,880.28",
+        "Alpha": "17.72",
+        "Beta": "1.55",
+        "EPS (Q)": "17.27"
+    },
+    {
+        "Rank": "79",
+        "Name": "TATACONSUM",
+        "Sub-Sector": "Tea & Coffee",
+        "Market Cap": "101,892.70",
+        "Alpha": "5.51",
+        "Beta": "0.96",
+        "EPS (Q)": "2.82"
+    },
+    {
+        "Rank": "80",
+        "Name": "SHREECEM",
+        "Sub-Sector": "Cement",
+        "Market Cap": "101,874.17",
+        "Alpha": "-1.97",
+        "Beta": "0.82",
+        "EPS (Q)": "53.61"
+    },
+    {
+        "Rank": "81",
+        "Name": "UNITDSPR",
+        "Sub-Sector": "Alcoholic Beverages",
+        "Market Cap": "101,647.28",
+        "Alpha": "12.01",
+        "Beta": "0.94",
+        "EPS (Q)": "4.72"
+    },
+    {
+        "Rank": "82",
+        "Name": "DRREDDY",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "101,295.01",
+        "Alpha": "9.04",
+        "Beta": "0.25",
+        "EPS (Q)": "16.97"
+    },
+    {
+        "Rank": "83",
+        "Name": "MANKIND",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "99,951.27",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "9.45"
+    },
+    {
+        "Rank": "84",
+        "Name": "NAUKRI",
+        "Sub-Sector": "Online Services",
+        "Market Cap": "98,045.85",
+        "Alpha": "8.15",
+        "Beta": "1.26",
+        "EPS (Q)": "18.75"
+    },
+    {
+        "Rank": "85",
+        "Name": "MAXHEALTH",
+        "Sub-Sector": "Hospitals & Diagnostic Centres",
+        "Market Cap": "97,680.83",
+        "Alpha": "32.37",
+        "Beta": "0.73",
+        "EPS (Q)": "2.46"
+    },
+    {
+        "Rank": "86",
+        "Name": "HAVELLS",
+        "Sub-Sector": "Electrical Components & Equipments",
+        "Market Cap": "95,856.26",
+        "Alpha": "2.31",
+        "Beta": "0.93",
+        "EPS (Q)": "4.43"
+    },
+    {
+        "Rank": "87",
+        "Name": "ZYDUSLIFE",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "93,987.29",
+        "Alpha": "27.36",
+        "Beta": "0.4",
+        "EPS (Q)": "10.17"
+    },
+    {
+        "Rank": "88",
+        "Name": "DABUR",
+        "Sub-Sector": "FMCG - Personal Products",
+        "Market Cap": "93,179.46",
+        "Alpha": "-7.07",
+        "Beta": "0.51",
+        "EPS (Q)": "2.95"
+    },
+    {
+        "Rank": "89",
+        "Name": "LUPIN",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "92,446.53",
+        "Alpha": "29.75",
+        "Beta": "0.68",
+        "EPS (Q)": "18.75"
+    },
+    {
+        "Rank": "90",
+        "Name": "APOLLOHOSP",
+        "Sub-Sector": "Hospitals & Diagnostic Centres",
+        "Market Cap": "91,656.25",
+        "Alpha": "7.93",
+        "Beta": "1.07",
+        "EPS (Q)": "25.89"
+    },
+    {
+        "Rank": "91",
+        "Name": "INDUSTOWER",
+        "Sub-Sector": "Telecom Infrastructure",
+        "Market Cap": "91,617.62",
+        "Alpha": "7.44",
+        "Beta": "0.77",
+        "EPS (Q)": "15.18"
+    },
+    {
+        "Rank": "92",
+        "Name": "ADANIENSOL",
+        "Sub-Sector": "Power Infrastructure",
+        "Market Cap": "90,913.07",
+        "Alpha": "-19.28",
+        "Beta": "1.94",
+        "EPS (Q)": "4.85"
+    },
+    {
+        "Rank": "93",
+        "Name": "MOTHERSON",
+        "Sub-Sector": "Auto Parts",
+        "Market Cap": "90,507.86",
+        "Alpha": "-0.73",
+        "Beta": "1.78",
+        "EPS (Q)": "1.29"
+    },
+    {
+        "Rank": "94",
+        "Name": "IOB",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "90,240.12",
+        "Alpha": "27.91",
+        "Beta": "0.99",
+        "EPS (Q)": "0.46"
+    },
+    {
+        "Rank": "95",
+        "Name": "DIXON",
+        "Sub-Sector": "Home Electronics & Appliances",
+        "Market Cap": "88,701.17",
+        "Alpha": "37.03",
+        "Beta": "1.08",
+        "EPS (Q)": "36.12"
+    },
+    {
+        "Rank": "96",
+        "Name": "MAZDOCK",
+        "Sub-Sector": "Shipbuilding",
+        "Market Cap": "88,338.20",
+        "Alpha": "95.11",
+        "Beta": "1.54",
+        "EPS (Q)": "20.01"
+    },
+    {
+        "Rank": "97",
+        "Name": "CGPOWER",
+        "Sub-Sector": "Heavy Electrical Equipments",
+        "Market Cap": "88,177.55",
+        "Alpha": "34.25",
+        "Beta": "2.06",
+        "EPS (Q)": "1.57"
+    },
+    {
+        "Rank": "98",
+        "Name": "PERSISTENT",
+        "Sub-Sector": "Software Services",
+        "Market Cap": "87,947.04",
+        "Alpha": "29.69",
+        "Beta": "0.91",
+        "EPS (Q)": "24.28"
+    },
+    {
+        "Rank": "99",
+        "Name": "UNIONBANK",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "87,771.20",
+        "Alpha": "27.14",
+        "Beta": "1.04",
+        "EPS (Q)": "6.06"
+    },
+    {
+        "Rank": "100",
+        "Name": "MUTHOOTFIN",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "87,633.55",
+        "Alpha": "11.53",
+        "Beta": "1.29",
+        "EPS (Q)": "35.36"
+    },
+    {
+        "Rank": "101",
+        "Name": "ICICIGI",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "87,430.43",
+        "Alpha": "7.16",
+        "Beta": "0.9",
+        "EPS (Q)": "14.63"
+    },
+    {
+        "Rank": "102",
+        "Name": "POLYCAB",
+        "Sub-Sector": "Electrical Components & Equipments",
+        "Market Cap": "84,856.67",
+        "Alpha": "25.74",
+        "Beta": "0.89",
+        "EPS (Q)": "30.42"
+    },
+    {
+        "Rank": "103",
+        "Name": "JINDALSTEL",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "83,911.93",
+        "Alpha": "18.32",
+        "Beta": "1.53",
+        "EPS (Q)": "9.39"
+    },
+    {
+        "Rank": "104",
+        "Name": "SRF",
+        "Sub-Sector": "Diversified Chemicals",
+        "Market Cap": "83,839.32",
+        "Alpha": "0.39",
+        "Beta": "1.18",
+        "EPS (Q)": "9.15"
+    },
+    {
+        "Rank": "105",
+        "Name": "ICICIPRULI",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "83,797.24",
+        "Alpha": "-1.55",
+        "Beta": "1.02",
+        "EPS (Q)": "2.25"
+    },
+    {
+        "Rank": "106",
+        "Name": "CANBK",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "82,125.68",
+        "Alpha": "10.71",
+        "Beta": "1.42",
+        "EPS (Q)": "4.65"
+    },
+    {
+        "Rank": "107",
+        "Name": "MARICO",
+        "Sub-Sector": "FMCG - Personal Products",
+        "Market Cap": "81,823.59",
+        "Alpha": "4.3",
+        "Beta": "0.32",
+        "EPS (Q)": "3.08"
+    },
+    {
+        "Rank": "108",
+        "Name": "JSWENERGY",
+        "Sub-Sector": "Power Generation",
+        "Market Cap": "81,603.92",
+        "Alpha": "9.45",
+        "Beta": "1.04",
+        "EPS (Q)": "0.96"
+    },
+    {
+        "Rank": "109",
+        "Name": "SOLARINDS",
+        "Sub-Sector": "Commodity Chemicals",
+        "Market Cap": "81,050.13",
+        "Alpha": "45.27",
+        "Beta": "0.54",
+        "EPS (Q)": "34.8"
+    },
+    {
+        "Rank": "110",
+        "Name": "INDUSINDBK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "80,994.11",
+        "Alpha": "-6.36",
+        "Beta": "2.34",
+        "EPS (Q)": "18.01"
+    },
+    {
+        "Rank": "111",
+        "Name": "BOSCHLTD",
+        "Sub-Sector": "Auto Parts",
+        "Market Cap": "80,784.55",
+        "Alpha": "11.35",
+        "Beta": "0.78",
+        "EPS (Q)": "155.53"
+    },
+    {
+        "Rank": "112",
+        "Name": "HEROMOTOCO",
+        "Sub-Sector": "Two Wheelers",
+        "Market Cap": "80,319.35",
+        "Alpha": "6.48",
+        "Beta": "0.99",
+        "EPS (Q)": "55.38"
+    },
+    {
+        "Rank": "113",
+        "Name": "IDBI",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "79,922.61",
+        "Alpha": "12.48",
+        "Beta": "1.57",
+        "EPS (Q)": "1.81"
+    },
+    {
+        "Rank": "114",
+        "Name": "HDFCAMC",
+        "Sub-Sector": "Asset Management",
+        "Market Cap": "79,171.44",
+        "Alpha": "9.87",
+        "Beta": "1.17",
+        "EPS (Q)": "30.02"
+    },
+    {
+        "Rank": "115",
+        "Name": "OFSS",
+        "Sub-Sector": "Software Services",
+        "Market Cap": "78,534.56",
+        "Alpha": "29.52",
+        "Beta": "0.78",
+        "EPS (Q)": "62.37"
+    },
+    {
+        "Rank": "116",
+        "Name": "CUMMINSIND",
+        "Sub-Sector": "Industrial Machinery",
+        "Market Cap": "77,918.15",
+        "Alpha": "29.98",
+        "Beta": "1.3",
+        "EPS (Q)": "20.15"
+    },
+    {
+        "Rank": "117",
+        "Name": "SBICARD",
+        "Sub-Sector": "Payment Infrastructure",
+        "Market Cap": "77,668.54",
+        "Alpha": "-8.08",
+        "Beta": "0.72",
+        "EPS (Q)": "4.03"
+    },
+    {
+        "Rank": "118",
+        "Name": "RVNL",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "77,489.77",
+        "Alpha": "86.02",
+        "Beta": "1.49",
+        "EPS (Q)": "1.38"
+    },
+    {
+        "Rank": "119",
+        "Name": "GMRAIRPORT",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "76,087.98",
+        "Alpha": "12.08",
+        "Beta": "1.05",
+        "EPS (Q)": "0.25"
+    },
+    {
+        "Rank": "120",
+        "Name": "NHPC",
+        "Sub-Sector": "Renewable Energy",
+        "Market Cap": "74,433.71",
+        "Alpha": "28.26",
+        "Beta": "0.51",
+        "EPS (Q)": "0.23"
+    },
+    {
+        "Rank": "121",
+        "Name": "POLICYBZR",
+        "Sub-Sector": "Online Services",
+        "Market Cap": "72,943.01",
+        "Alpha": "25.61",
+        "Beta": "-",
+        "EPS (Q)": "1.57"
+    },
+    {
+        "Rank": "122",
+        "Name": "BSE",
+        "Sub-Sector": "Stock Exchanges & Ratings",
+        "Market Cap": "72,498.10",
+        "Alpha": "66.38",
+        "Beta": "1.18",
+        "EPS (Q)": "16"
+    },
+    {
+        "Rank": "123",
+        "Name": "SUZLON",
+        "Sub-Sector": "Renewable Energy Equipment & Services",
+        "Market Cap": "71,515.61",
+        "Alpha": "58.87",
+        "Beta": "1.62",
+        "EPS (Q)": "0.28"
+    },
+    {
+        "Rank": "124",
+        "Name": "INDIANB",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "69,819.88",
+        "Alpha": "34.48",
+        "Beta": "1.59",
+        "EPS (Q)": "21.6"
+    },
+    {
+        "Rank": "125",
+        "Name": "BHEL",
+        "Sub-Sector": "Heavy Electrical Equipments",
+        "Market Cap": "69,233.87",
+        "Alpha": "38.06",
+        "Beta": "1.5",
+        "EPS (Q)": "0.39"
+    },
+    {
+        "Rank": "126",
+        "Name": "HINDPETRO",
+        "Sub-Sector": "Oil & Gas - Refining & Marketing",
+        "Market Cap": "68,930.81",
+        "Alpha": "12.85",
+        "Beta": "0.91",
+        "EPS (Q)": "11.95"
+    },
+    {
+        "Rank": "127",
+        "Name": "COLPAL",
+        "Sub-Sector": "FMCG - Personal Products",
+        "Market Cap": "68,796.05",
+        "Alpha": "16.79",
+        "Beta": "0.63",
+        "EPS (Q)": "11.87"
+    },
+    {
+        "Rank": "128",
+        "Name": "OIL",
+        "Sub-Sector": "Oil & Gas - Exploration & Production",
+        "Market Cap": "67,919.01",
+        "Alpha": "37.7",
+        "Beta": "1.01",
+        "EPS (Q)": "8.23"
+    },
+    {
+        "Rank": "129",
+        "Name": "BHARTIHEXA",
+        "Sub-Sector": "Telecom Services",
+        "Market Cap": "67,500.00",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "5.22"
+    },
+    {
+        "Rank": "130",
+        "Name": "AUROPHARMA",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "66,475.65",
+        "Alpha": "16.28",
+        "Beta": "0.98",
+        "EPS (Q)": "14.56"
+    },
+    {
+        "Rank": "131",
+        "Name": "ATGL",
+        "Sub-Sector": "Gas Distribution",
+        "Market Cap": "65,521.19",
+        "Alpha": "-21.12",
+        "Beta": "2.2",
+        "EPS (Q)": "1.29"
+    },
+    {
+        "Rank": "132",
+        "Name": "PATANJALI",
+        "Sub-Sector": "Packaged Foods & Meats",
+        "Market Cap": "65,104.77",
+        "Alpha": "20.78",
+        "Beta": "-0.63",
+        "EPS (Q)": "10.24"
+    },
+    {
+        "Rank": "133",
+        "Name": "ASHOKLEY",
+        "Sub-Sector": "Trucks & Buses",
+        "Market Cap": "64,412.73",
+        "Alpha": "12.36",
+        "Beta": "1.13",
+        "EPS (Q)": "2.59"
+    },
+    {
+        "Rank": "134",
+        "Name": "TORNTPOWER",
+        "Sub-Sector": "Power Transmission & Distribution",
+        "Market Cap": "63,935.28",
+        "Alpha": "30.14",
+        "Beta": "0.82",
+        "EPS (Q)": "9.76"
+    },
+    {
+        "Rank": "135",
+        "Name": "IRCTC",
+        "Sub-Sector": "Online Services",
+        "Market Cap": "60,732.00",
+        "Alpha": "-10.09",
+        "Beta": "1.47",
+        "EPS (Q)": "4.26"
+    },
+    {
+        "Rank": "136",
+        "Name": "IDEA",
+        "Sub-Sector": "Telecom Services",
+        "Market Cap": "59,898.76",
+        "Alpha": "-8.72",
+        "Beta": "1.02",
+        "EPS (Q)": "-0.95"
+    },
+    {
+        "Rank": "137",
+        "Name": "OBEROIRLTY",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "59,639.86",
+        "Alpha": "14.78",
+        "Beta": "1.22",
+        "EPS (Q)": "17.01"
+    },
+    {
+        "Rank": "138",
+        "Name": "GODREJPROP",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "58,120.89",
+        "Alpha": "-2.63",
+        "Beta": "1.75",
+        "EPS (Q)": "5.7"
+    },
+    {
+        "Rank": "139",
+        "Name": "PHOENIXLTD",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "57,203.77",
+        "Alpha": "33.41",
+        "Beta": "1.06",
+        "EPS (Q)": "7.41"
+    },
+    {
+        "Rank": "140",
+        "Name": "YESBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "56,842.75",
+        "Alpha": "6.65",
+        "Beta": "0.98",
+        "EPS (Q)": "0.2"
+    },
+    {
+        "Rank": "141",
+        "Name": "ALKEM",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "56,298.38",
+        "Alpha": "10.11",
+        "Beta": "0.72",
+        "EPS (Q)": "52.34"
+    },
+    {
+        "Rank": "142",
+        "Name": "NMDC",
+        "Sub-Sector": "Mining - Iron Ore",
+        "Market Cap": "55,309.32",
+        "Alpha": "15.46",
+        "Beta": "0.76",
+        "EPS (Q)": "2.14"
+    },
+    {
+        "Rank": "143",
+        "Name": "COFORGE",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "53,527.90",
+        "Alpha": "16.57",
+        "Beta": "0.98",
+        "EPS (Q)": "32.26"
+    },
+    {
+        "Rank": "144",
+        "Name": "KALYANKJIL",
+        "Sub-Sector": "Precious Metals, Jewellery & Watches",
+        "Market Cap": "52,871.38",
+        "Alpha": "72.33",
+        "Beta": "0.88",
+        "EPS (Q)": "2.12"
+    },
+    {
+        "Rank": "145",
+        "Name": "BHARATFORG",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "52,812.06",
+        "Alpha": "8.87",
+        "Beta": "1.44",
+        "EPS (Q)": "4.54"
+    },
+    {
+        "Rank": "146",
+        "Name": "PRESTIGE",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "52,555.55",
+        "Alpha": "30.09",
+        "Beta": "1.33",
+        "EPS (Q)": "0.41"
+    },
+    {
+        "Rank": "147",
+        "Name": "FACT",
+        "Sub-Sector": "Fertilizers & Agro Chemicals",
+        "Market Cap": "52,539.01",
+        "Alpha": "74.13",
+        "Beta": "0.59",
+        "EPS (Q)": "0.17"
+    },
+    {
+        "Rank": "148",
+        "Name": "TIINDIA",
+        "Sub-Sector": "Cycles",
+        "Market Cap": "51,902.06",
+        "Alpha": "15.19",
+        "Beta": "1.63",
+        "EPS (Q)": "10.01"
+    },
+    {
+        "Rank": "149",
+        "Name": "BALKRISIND",
+        "Sub-Sector": "Tires & Rubber",
+        "Market Cap": "50,997.07",
+        "Alpha": "3.51",
+        "Beta": "1.02",
+        "EPS (Q)": "23.25"
+    },
+    {
+        "Rank": "150",
+        "Name": "PIIND",
+        "Sub-Sector": "Diversified Chemicals",
+        "Market Cap": "50,921.46",
+        "Alpha": "1.41",
+        "Beta": "1.22",
+        "EPS (Q)": "24.55"
+    },
+    {
+        "Rank": "151",
+        "Name": "MPHASIS",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "50,573.49",
+        "Alpha": "-11.12",
+        "Beta": "0.95",
+        "EPS (Q)": "22.58"
+    },
+    {
+        "Rank": "152",
+        "Name": "SUPREMEIND",
+        "Sub-Sector": "Plastic Products",
+        "Market Cap": "49,375.98",
+        "Alpha": "21.56",
+        "Beta": "1.17",
+        "EPS (Q)": "14.72"
+    },
+    {
+        "Rank": "153",
+        "Name": "SUNDARMFIN",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "49,267.55",
+        "Alpha": "20.33",
+        "Beta": "0.98",
+        "EPS (Q)": "41.33"
+    },
+    {
+        "Rank": "154",
+        "Name": "NYKAA",
+        "Sub-Sector": "Wellness Services",
+        "Market Cap": "49,155.83",
+        "Alpha": "-11.4",
+        "Beta": "-",
+        "EPS (Q)": "0.09"
+    },
+    {
+        "Rank": "155",
+        "Name": "UPL",
+        "Sub-Sector": "Fertilizers & Agro Chemicals",
+        "Market Cap": "49,044.70",
+        "Alpha": "-10.72",
+        "Beta": "1.3",
+        "EPS (Q)": "9.98"
+    },
+    {
+        "Rank": "156",
+        "Name": "JSWINFRA",
+        "Sub-Sector": "Ports",
+        "Market Cap": "49,002.22",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "1.59"
+    },
+    {
+        "Rank": "157",
+        "Name": "UCOBANK",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "47,776.01",
+        "Alpha": "40.06",
+        "Beta": "1.15",
+        "EPS (Q)": "0.54"
+    },
+    {
+        "Rank": "158",
+        "Name": "PAGEIND",
+        "Sub-Sector": "Apparel & Accessories",
+        "Market Cap": "47,636.08",
+        "Alpha": "-1.88",
+        "Beta": "0.76",
+        "EPS (Q)": "183.48"
+    },
+    {
+        "Rank": "159",
+        "Name": "PAYTM",
+        "Sub-Sector": "Online Services",
+        "Market Cap": "47,531.73",
+        "Alpha": "9.43",
+        "Beta": "-",
+        "EPS (Q)": "-3.27"
+    },
+    {
+        "Rank": "160",
+        "Name": "IREDA",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "46,904.18",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "1.58"
+    },
+    {
+        "Rank": "161",
+        "Name": "BANKINDIA",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "46,664.85",
+        "Alpha": "15.16",
+        "Beta": "1.55",
+        "EPS (Q)": "5.79"
+    },
+    {
+        "Rank": "162",
+        "Name": "MRF",
+        "Sub-Sector": "Tires & Rubber",
+        "Market Cap": "46,395.62",
+        "Alpha": "12.22",
+        "Beta": "0.66",
+        "EPS (Q)": "743.8"
+    },
+    {
+        "Rank": "163",
+        "Name": "IDFCFIRSTB",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "45,508.68",
+        "Alpha": "3.35",
+        "Beta": "1.32",
+        "EPS (Q)": "0.46"
+    },
+    {
+        "Rank": "164",
+        "Name": "PETRONET",
+        "Sub-Sector": "Oil & Gas - Storage & Transportation",
+        "Market Cap": "45,210.00",
+        "Alpha": "11.57",
+        "Beta": "0.72",
+        "EPS (Q)": "6.01"
+    },
+    {
+        "Rank": "165",
+        "Name": "FEDERALBNK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "45,166.46",
+        "Alpha": "13.74",
+        "Beta": "1.45",
+        "EPS (Q)": "3.85"
+    },
+    {
+        "Rank": "166",
+        "Name": "SAIL",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "43,680.30",
+        "Alpha": "-4.75",
+        "Beta": "1.91",
+        "EPS (Q)": "0.34"
+    },
+    {
+        "Rank": "167",
+        "Name": "TATACOMM",
+        "Sub-Sector": "Telecom Services",
+        "Market Cap": "43,381.28",
+        "Alpha": "-0.76",
+        "Beta": "1.97",
+        "EPS (Q)": "8.28"
+    },
+    {
+        "Rank": "168",
+        "Name": "VOLTAS",
+        "Sub-Sector": "Home Electronics & Appliances",
+        "Market Cap": "42,986.89",
+        "Alpha": "-5.29",
+        "Beta": "0.89",
+        "EPS (Q)": "3.99"
+    },
+    {
+        "Rank": "169",
+        "Name": "BIOCON",
+        "Sub-Sector": "Biotechnology",
+        "Market Cap": "42,640.09",
+        "Alpha": "-7.89",
+        "Beta": "0.73",
+        "EPS (Q)": "0.21"
+    },
+    {
+        "Rank": "170",
+        "Name": "CENTRALBK",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "42,206.73",
+        "Alpha": "25.85",
+        "Beta": "1.14",
+        "EPS (Q)": "1.11"
+    },
+    {
+        "Rank": "171",
+        "Name": "JUBLFOOD",
+        "Sub-Sector": "Restaurants & Cafes",
+        "Market Cap": "42,151.99",
+        "Alpha": "-1.83",
+        "Beta": "0.8",
+        "EPS (Q)": "0.65"
+    },
+    {
+        "Rank": "172",
+        "Name": "CONCOR",
+        "Sub-Sector": "Logistics",
+        "Market Cap": "42,111.38",
+        "Alpha": "-0.47",
+        "Beta": "1.24",
+        "EPS (Q)": "6.03"
+    },
+    {
+        "Rank": "173",
+        "Name": "BDL",
+        "Sub-Sector": "Aerospace & Defense Equipments",
+        "Market Cap": "41,663.49",
+        "Alpha": "52.65",
+        "Beta": "1.21",
+        "EPS (Q)": "4.01"
+    },
+    {
+        "Rank": "174",
+        "Name": "ABCAPITAL",
+        "Sub-Sector": "Diversified Financials",
+        "Market Cap": "41,340.18",
+        "Alpha": "2.22",
+        "Beta": "1.67",
+        "EPS (Q)": "2.72"
+    },
+    {
+        "Rank": "175",
+        "Name": "AUBANK",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "41,268.98",
+        "Alpha": "-7.9",
+        "Beta": "1.66",
+        "EPS (Q)": "7.1"
+    },
+    {
+        "Rank": "176",
+        "Name": "BLUESTARCO",
+        "Sub-Sector": "Home Electronics & Appliances",
+        "Market Cap": "41,021.18",
+        "Alpha": "41.4",
+        "Beta": "1.13",
+        "EPS (Q)": "6.44"
+    },
+    {
+        "Rank": "177",
+        "Name": "GLENMARK",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "39,679.89",
+        "Alpha": "31.96",
+        "Beta": "1.1",
+        "EPS (Q)": "12.55"
+    },
+    {
+        "Rank": "178",
+        "Name": "HUDCO",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "38,564.60",
+        "Alpha": "56.73",
+        "Beta": "1.63",
+        "EPS (Q)": "3.67"
+    },
+    {
+        "Rank": "179",
+        "Name": "TATAELXSI",
+        "Sub-Sector": "Software Services",
+        "Market Cap": "38,329.64",
+        "Alpha": "-9.57",
+        "Beta": "0.98",
+        "EPS (Q)": "31.95"
+    },
+    {
+        "Rank": "180",
+        "Name": "MFSL",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "37,645.12",
+        "Alpha": "6.77",
+        "Beta": "0.93",
+        "EPS (Q)": "1.62"
+    },
+    {
+        "Rank": "181",
+        "Name": "MAHABANK",
+        "Sub-Sector": "Public Banks",
+        "Market Cap": "37,542.48",
+        "Alpha": "25.87",
+        "Beta": "0.89",
+        "EPS (Q)": "1.84"
+    },
+    {
+        "Rank": "182",
+        "Name": "360ONE",
+        "Sub-Sector": "Investment Banking & Brokerage",
+        "Market Cap": "37,478.23",
+        "Alpha": "23.57",
+        "Beta": "1.09",
+        "EPS (Q)": "7.26"
+    },
+    {
+        "Rank": "183",
+        "Name": "ASTRAL",
+        "Sub-Sector": "Building Products - Pipes",
+        "Market Cap": "37,453.05",
+        "Alpha": "-4.36",
+        "Beta": "0.98",
+        "EPS (Q)": "4.25"
+    },
+    {
+        "Rank": "184",
+        "Name": "APLAPOLLO",
+        "Sub-Sector": "Building Products - Pipes",
+        "Market Cap": "37,186.90",
+        "Alpha": "11.73",
+        "Beta": "0.99",
+        "EPS (Q)": "7.82"
+    },
+    {
+        "Rank": "185",
+        "Name": "KPITTECH",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "36,752.08",
+        "Alpha": "24.04",
+        "Beta": "1.71",
+        "EPS (Q)": "6.89"
+    },
+    {
+        "Rank": "186",
+        "Name": "ACC",
+        "Sub-Sector": "Cement",
+        "Market Cap": "36,219.47",
+        "Alpha": "-10.49",
+        "Beta": "0.91",
+        "EPS (Q)": "58.14"
+    },
+    {
+        "Rank": "187",
+        "Name": "SJVN",
+        "Sub-Sector": "Renewable Energy",
+        "Market Cap": "35,442.82",
+        "Alpha": "33.78",
+        "Beta": "0.63",
+        "EPS (Q)": "1.1"
+    },
+    {
+        "Rank": "188",
+        "Name": "LTF",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "35,110.28",
+        "Alpha": "12.66",
+        "Beta": "1.95",
+        "EPS (Q)": "2.51"
+    },
+    {
+        "Rank": "189",
+        "Name": "NATIONALUM",
+        "Sub-Sector": "Metals - Aluminium",
+        "Market Cap": "34,837.23",
+        "Alpha": "11.52",
+        "Beta": "1.02",
+        "EPS (Q)": "8.53"
+    },
+    {
+        "Rank": "190",
+        "Name": "COCHINSHIP",
+        "Sub-Sector": "Shipbuilding",
+        "Market Cap": "34,193.92",
+        "Alpha": "72.39",
+        "Beta": "0.9",
+        "EPS (Q)": "6.73"
+    },
+    {
+        "Rank": "191",
+        "Name": "M&MFIN",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "34,087.50",
+        "Alpha": "10.81",
+        "Beta": "1.98",
+        "EPS (Q)": "7.43"
+    },
+    {
+        "Rank": "192",
+        "Name": "ESCORTS",
+        "Sub-Sector": "Tractors",
+        "Market Cap": "33,250.78",
+        "Alpha": "12.6",
+        "Beta": "0.61",
+        "EPS (Q)": "29.16"
+    },
+    {
+        "Rank": "193",
+        "Name": "LAURUSLABS",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "32,411.77",
+        "Alpha": "-1.9",
+        "Beta": "1.47",
+        "EPS (Q)": "1.71"
+    },
+    {
+        "Rank": "194",
+        "Name": "SONACOMS",
+        "Sub-Sector": "Auto Parts",
+        "Market Cap": "31,791.55",
+        "Alpha": "-11.83",
+        "Beta": "0.97",
+        "EPS (Q)": "2.43"
+    },
+    {
+        "Rank": "195",
+        "Name": "EXIDEIND",
+        "Sub-Sector": "Batteries",
+        "Market Cap": "31,084.50",
+        "Alpha": "22.36",
+        "Beta": "0.94",
+        "EPS (Q)": "1.84"
+    },
+    {
+        "Rank": "196",
+        "Name": "IRB",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "29,965.52",
+        "Alpha": "12.42",
+        "Beta": "1.54",
+        "EPS (Q)": "9.98"
+    },
+    {
+        "Rank": "197",
+        "Name": "TATATECH",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "29,960.65",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "4.16"
+    },
+    {
+        "Rank": "198",
+        "Name": "RADICO",
+        "Sub-Sector": "Alcoholic Beverages",
+        "Market Cap": "29,933.70",
+        "Alpha": "23.94",
+        "Beta": "0.84",
+        "EPS (Q)": "7.14"
+    },
+    {
+        "Rank": "199",
+        "Name": "LICHSGFIN",
+        "Sub-Sector": "Home Financing",
+        "Market Cap": "29,860.17",
+        "Alpha": "3.37",
+        "Beta": "1.22",
+        "EPS (Q)": "26.09"
+    },
+    {
+        "Rank": "200",
+        "Name": "ABFRL",
+        "Sub-Sector": "Retail - Apparel",
+        "Market Cap": "29,293.33",
+        "Alpha": "-9.28",
+        "Beta": "0.92",
+        "EPS (Q)": "-1.81"
+    },
+    {
+        "Rank": "201",
+        "Name": "MCX",
+        "Sub-Sector": "Stock Exchanges & Ratings",
+        "Market Cap": "28,240.63",
+        "Alpha": "41.67",
+        "Beta": "0.4",
+        "EPS (Q)": "31.38"
+    },
+    {
+        "Rank": "202",
+        "Name": "NLCINDIA",
+        "Sub-Sector": "Metals - Diversified",
+        "Market Cap": "28,076.62",
+        "Alpha": "32.86",
+        "Beta": "1.21",
+        "EPS (Q)": "5.02"
+    },
+    {
+        "Rank": "203",
+        "Name": "NH",
+        "Sub-Sector": "Hospitals & Diagnostic Centres",
+        "Market Cap": "28,051.13",
+        "Alpha": "24.19",
+        "Beta": "0.79",
+        "EPS (Q)": "9.78"
+    },
+    {
+        "Rank": "204",
+        "Name": "AEGISLOG",
+        "Sub-Sector": "Oil & Gas - Storage & Transportation",
+        "Market Cap": "27,878.18",
+        "Alpha": "45.69",
+        "Beta": "1.15",
+        "EPS (Q)": "3.54"
+    },
+    {
+        "Rank": "205",
+        "Name": "ITI",
+        "Sub-Sector": "Telecom Equipments",
+        "Market Cap": "27,692.76",
+        "Alpha": "37.49",
+        "Beta": "0.94",
+        "EPS (Q)": "-0.73"
+    },
+    {
+        "Rank": "206",
+        "Name": "GODIGIT",
+        "Sub-Sector": "Insurance",
+        "Market Cap": "27,538.22",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "1.29"
+    },
+    {
+        "Rank": "207",
+        "Name": "APARINDS",
+        "Sub-Sector": "Electrical Components & Equipments",
+        "Market Cap": "27,210.02",
+        "Alpha": "81.67",
+        "Beta": "0.62",
+        "EPS (Q)": "43.55"
+    },
+    {
+        "Rank": "208",
+        "Name": "KAYNES",
+        "Sub-Sector": "Electrical Components & Equipments",
+        "Market Cap": "26,772.18",
+        "Alpha": "78.8",
+        "Beta": "-",
+        "EPS (Q)": "10.39"
+    },
+    {
+        "Rank": "209",
+        "Name": "IGL",
+        "Sub-Sector": "Gas Distribution",
+        "Market Cap": "26,684.03",
+        "Alpha": "-3.37",
+        "Beta": "0.8",
+        "EPS (Q)": "2.33"
+    },
+    {
+        "Rank": "210",
+        "Name": "PPLPHARMA",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "26,441.44",
+        "Alpha": "8.87",
+        "Beta": "-",
+        "EPS (Q)": "0.03"
+    },
+    {
+        "Rank": "211",
+        "Name": "APOLLOTYRE",
+        "Sub-Sector": "Tires & Rubber",
+        "Market Cap": "26,216.97",
+        "Alpha": "14.27",
+        "Beta": "1.45",
+        "EPS (Q)": "5.31"
+    },
+    {
+        "Rank": "212",
+        "Name": "CDSL",
+        "Sub-Sector": "Stock Exchanges & Ratings",
+        "Market Cap": "25,826.13",
+        "Alpha": "10.53",
+        "Beta": "0.83",
+        "EPS (Q)": "6.23"
+    },
+    {
+        "Rank": "213",
+        "Name": "BRIGADE",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "25,075.28",
+        "Alpha": "16.77",
+        "Beta": "1.36",
+        "EPS (Q)": "9.98"
+    },
+    {
+        "Rank": "214",
+        "Name": "FSL",
+        "Sub-Sector": "Outsourced services",
+        "Market Cap": "24,540.74",
+        "Alpha": "28.87",
+        "Beta": "1.52",
+        "EPS (Q)": "2.33"
+    },
+    {
+        "Rank": "215",
+        "Name": "ABREL",
+        "Sub-Sector": "Textiles",
+        "Market Cap": "23,587.01",
+        "Alpha": "25.08",
+        "Beta": "1.19",
+        "EPS (Q)": "-3.64"
+    },
+    {
+        "Rank": "216",
+        "Name": "NBCC",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "23,184.90",
+        "Alpha": "33.08",
+        "Beta": "1.62",
+        "EPS (Q)": "0.51"
+    },
+    {
+        "Rank": "217",
+        "Name": "BANDHANBNK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "22,945.07",
+        "Alpha": "-31.16",
+        "Beta": "1.72",
+        "EPS (Q)": "2.65"
+    },
+    {
+        "Rank": "218",
+        "Name": "INOXWIND",
+        "Sub-Sector": "Heavy Electrical Equipments",
+        "Market Cap": "22,912.88",
+        "Alpha": "57.88",
+        "Beta": "1.87",
+        "EPS (Q)": "0.89"
+    },
+    {
+        "Rank": "219",
+        "Name": "POONAWALLA",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "22,530.89",
+        "Alpha": "-0.04",
+        "Beta": "2.34",
+        "EPS (Q)": "0.24"
+    },
+    {
+        "Rank": "220",
+        "Name": "TATACHEM",
+        "Sub-Sector": "Diversified Chemicals",
+        "Market Cap": "22,382.89",
+        "Alpha": "-4.65",
+        "Beta": "1.39",
+        "EPS (Q)": "-2.08"
+    },
+    {
+        "Rank": "221",
+        "Name": "LALPATHLAB",
+        "Sub-Sector": "Hospitals & Diagnostic Centres",
+        "Market Cap": "22,282.77",
+        "Alpha": "-3.66",
+        "Beta": "0.77",
+        "EPS (Q)": "11.6"
+    },
+    {
+        "Rank": "222",
+        "Name": "PEL",
+        "Sub-Sector": "Diversified Financials",
+        "Market Cap": "21,980.01",
+        "Alpha": "-15.14",
+        "Beta": "1.38",
+        "EPS (Q)": "1.71"
+    },
+    {
+        "Rank": "223",
+        "Name": "CROMPTON",
+        "Sub-Sector": "Home Electronics & Appliances",
+        "Market Cap": "21,887.47",
+        "Alpha": "-5.9",
+        "Beta": "0.67",
+        "EPS (Q)": "1.71"
+    },
+    {
+        "Rank": "224",
+        "Name": "NATCOPHARM",
+        "Sub-Sector": "Pharmaceuticals",
+        "Market Cap": "21,829.91",
+        "Alpha": "9.98",
+        "Beta": "0.67",
+        "EPS (Q)": "7.43"
+    },
+    {
+        "Rank": "225",
+        "Name": "HINDCOPPER",
+        "Sub-Sector": "Mining - Copper",
+        "Market Cap": "21,722.26",
+        "Alpha": "15.87",
+        "Beta": "2.09",
+        "EPS (Q)": "0.65"
+    },
+    {
+        "Rank": "226",
+        "Name": "ASTERDM",
+        "Sub-Sector": "Hospitals & Diagnostic Centres",
+        "Market Cap": "21,456.78",
+        "Alpha": "36.7",
+        "Beta": "1.26",
+        "EPS (Q)": "1.14"
+    },
+    {
+        "Rank": "227",
+        "Name": "AFFLE",
+        "Sub-Sector": "Advertising",
+        "Market Cap": "21,441.25",
+        "Alpha": "1.33",
+        "Beta": "1.69",
+        "EPS (Q)": "7.15"
+    },
+    {
+        "Rank": "228",
+        "Name": "PNBHOUSING",
+        "Sub-Sector": "Home Financing",
+        "Market Cap": "21,274.34",
+        "Alpha": "23.74",
+        "Beta": "1.4",
+        "EPS (Q)": "18.6"
+    },
+    {
+        "Rank": "229",
+        "Name": "CHAMBLFERT",
+        "Sub-Sector": "Fertilizers & Agro Chemicals",
+        "Market Cap": "21,206.53",
+        "Alpha": "5.31",
+        "Beta": "1.43",
+        "EPS (Q)": "13.34"
+    },
+    {
+        "Rank": "230",
+        "Name": "ANGELONE",
+        "Sub-Sector": "Investment Banking & Brokerage",
+        "Market Cap": "21,201.42",
+        "Alpha": "15.14",
+        "Beta": "1.03",
+        "EPS (Q)": "31.25"
+    },
+    {
+        "Rank": "231",
+        "Name": "FIVESTAR",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "20,602.72",
+        "Alpha": "21",
+        "Beta": "-",
+        "EPS (Q)": "9.36"
+    },
+    {
+        "Rank": "232",
+        "Name": "KEC",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "20,524.02",
+        "Alpha": "17.55",
+        "Beta": "1.02",
+        "EPS (Q)": "4.87"
+    },
+    {
+        "Rank": "233",
+        "Name": "RAMCOCEM",
+        "Sub-Sector": "Cement",
+        "Market Cap": "20,491.28",
+        "Alpha": "-5.23",
+        "Beta": "0.84",
+        "EPS (Q)": "7.62"
+    },
+    {
+        "Rank": "234",
+        "Name": "CASTROLIND",
+        "Sub-Sector": "Commodity Chemicals",
+        "Market Cap": "20,488.68",
+        "Alpha": "16.86",
+        "Beta": "1.22",
+        "EPS (Q)": "2.74"
+    },
+    {
+        "Rank": "235",
+        "Name": "DELHIVERY",
+        "Sub-Sector": "Logistics",
+        "Market Cap": "20,381.73",
+        "Alpha": "-28.37",
+        "Beta": "-",
+        "EPS (Q)": "0.34"
+    },
+    {
+        "Rank": "236",
+        "Name": "NAVINFLUOR",
+        "Sub-Sector": "Specialty Chemicals",
+        "Market Cap": "20,337.16",
+        "Alpha": "-1.87",
+        "Beta": "0.84",
+        "EPS (Q)": "16.86"
+    },
+    {
+        "Rank": "237",
+        "Name": "SHYAMMETL",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "20,291.25",
+        "Alpha": "22.66",
+        "Beta": "1.28",
+        "EPS (Q)": "7.1"
+    },
+    {
+        "Rank": "238",
+        "Name": "AMBER",
+        "Sub-Sector": "Home Electronics & Appliances",
+        "Market Cap": "20,234.57",
+        "Alpha": "23.63",
+        "Beta": "0.18",
+        "EPS (Q)": "10.61"
+    },
+    {
+        "Rank": "239",
+        "Name": "MRPL",
+        "Sub-Sector": "Oil & Gas - Refining & Marketing",
+        "Market Cap": "20,203.96",
+        "Alpha": "40.7",
+        "Beta": "1.2",
+        "EPS (Q)": "1.76"
+    },
+    {
+        "Rank": "240",
+        "Name": "ZENSARTECH",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "19,561.42",
+        "Alpha": "24.63",
+        "Beta": "1.35",
+        "EPS (Q)": "7.04"
+    },
+    {
+        "Rank": "241",
+        "Name": "TRITURBINE",
+        "Sub-Sector": "Heavy Electrical Equipments",
+        "Market Cap": "18,303.35",
+        "Alpha": "37.38",
+        "Beta": "1.39",
+        "EPS (Q)": "2.92"
+    },
+    {
+        "Rank": "242",
+        "Name": "ARE&M",
+        "Sub-Sector": "Batteries",
+        "Market Cap": "18,290.64",
+        "Alpha": "10.35",
+        "Beta": "1.15",
+        "EPS (Q)": "16.3"
+    },
+    {
+        "Rank": "243",
+        "Name": "KARURVYSYA",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "18,075.53",
+        "Alpha": "42.88",
+        "Beta": "1.92",
+        "EPS (Q)": "6.16"
+    },
+    {
+        "Rank": "244",
+        "Name": "REDINGTON",
+        "Sub-Sector": "Technology Hardware",
+        "Market Cap": "17,905.76",
+        "Alpha": "8.6",
+        "Beta": "1.02",
+        "EPS (Q)": "5.12"
+    },
+    {
+        "Rank": "245",
+        "Name": "SIGNATURE",
+        "Sub-Sector": "Real Estate",
+        "Market Cap": "17,653.76",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "2.07"
+    },
+    {
+        "Rank": "246",
+        "Name": "CAMS",
+        "Sub-Sector": "Diversified Financials",
+        "Market Cap": "17,430.28",
+        "Alpha": "10.73",
+        "Beta": "0.69",
+        "EPS (Q)": "25.45"
+    },
+    {
+        "Rank": "247",
+        "Name": "BATAINDIA",
+        "Sub-Sector": "Footwear",
+        "Market Cap": "17,397.49",
+        "Alpha": "-19.59",
+        "Beta": "1.01",
+        "EPS (Q)": "4.57"
+    },
+    {
+        "Rank": "248",
+        "Name": "CESC",
+        "Sub-Sector": "Power Generation",
+        "Market Cap": "16,958.02",
+        "Alpha": "10.32",
+        "Beta": "1.5",
+        "EPS (Q)": "1.99"
+    },
+    {
+        "Rank": "249",
+        "Name": "GSPL",
+        "Sub-Sector": "Gas Distribution",
+        "Market Cap": "16,943.27",
+        "Alpha": "1.73",
+        "Beta": "0.93",
+        "EPS (Q)": "4.15"
+    },
+    {
+        "Rank": "250",
+        "Name": "AADHARHFC",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "16,796.04",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "5.56"
+    },
+    {
+        "Rank": "251",
+        "Name": "ATUL",
+        "Sub-Sector": "Diversified Chemicals",
+        "Market Cap": "16,691.41",
+        "Alpha": "-20.9",
+        "Beta": "0.96",
+        "EPS (Q)": "36.93"
+    },
+    {
+        "Rank": "252",
+        "Name": "KPIL",
+        "Sub-Sector": "Power Infrastructure",
+        "Market Cap": "16,481.26",
+        "Alpha": "26.5",
+        "Beta": "1.29",
+        "EPS (Q)": "7.73"
+    },
+    {
+        "Rank": "253",
+        "Name": "BLS",
+        "Sub-Sector": "Outsourced services",
+        "Market Cap": "16,291.12",
+        "Alpha": "67.1",
+        "Beta": "1.59",
+        "EPS (Q)": "2.93"
+    },
+    {
+        "Rank": "254",
+        "Name": "MANAPPURAM",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "16,202.45",
+        "Alpha": "9.23",
+        "Beta": "1.61",
+        "EPS (Q)": "6.75"
+    },
+    {
+        "Rank": "255",
+        "Name": "GRSE",
+        "Sub-Sector": "Shipbuilding",
+        "Market Cap": "16,175.89",
+        "Alpha": "64.25",
+        "Beta": "0.74",
+        "EPS (Q)": "8.57"
+    },
+    {
+        "Rank": "256",
+        "Name": "AARTIIND",
+        "Sub-Sector": "Specialty Chemicals",
+        "Market Cap": "16,032.44",
+        "Alpha": "-27.25",
+        "Beta": "1.35",
+        "EPS (Q)": "1.27"
+    },
+    {
+        "Rank": "257",
+        "Name": "CREDITACC",
+        "Sub-Sector": "Consumer Finance",
+        "Market Cap": "15,936.40",
+        "Alpha": "9.99",
+        "Beta": "1.69",
+        "EPS (Q)": "-6.24"
+    },
+    {
+        "Rank": "258",
+        "Name": "IRCON",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "15,857.10",
+        "Alpha": "46.75",
+        "Beta": "0.93",
+        "EPS (Q)": "0.92"
+    },
+    {
+        "Rank": "259",
+        "Name": "CYIENT",
+        "Sub-Sector": "Software Services",
+        "Market Cap": "15,779.41",
+        "Alpha": "13.83",
+        "Beta": "1.49",
+        "EPS (Q)": "11.11"
+    },
+    {
+        "Rank": "260",
+        "Name": "IEX",
+        "Sub-Sector": "Power Trading & Consultancy",
+        "Market Cap": "15,278.02",
+        "Alpha": "-12.46",
+        "Beta": "1.16",
+        "EPS (Q)": "1.21"
+    },
+    {
+        "Rank": "261",
+        "Name": "SWANENERGY",
+        "Sub-Sector": "Textiles",
+        "Market Cap": "15,230.87",
+        "Alpha": "39.92",
+        "Beta": "0.46",
+        "EPS (Q)": "2.28"
+    },
+    {
+        "Rank": "262",
+        "Name": "JBMA",
+        "Sub-Sector": "Auto Parts",
+        "Market Cap": "14,774.98",
+        "Alpha": "30.45",
+        "Beta": "0.84",
+        "EPS (Q)": "2.23"
+    },
+    {
+        "Rank": "263",
+        "Name": "TRIDENT",
+        "Sub-Sector": "Textiles",
+        "Market Cap": "14,394.02",
+        "Alpha": "-27.15",
+        "Beta": "0.82",
+        "EPS (Q)": "0.15"
+    },
+    {
+        "Rank": "264",
+        "Name": "TEJASNET",
+        "Sub-Sector": "Telecom Equipments",
+        "Market Cap": "14,343.97",
+        "Alpha": "19",
+        "Beta": "1.55",
+        "EPS (Q)": "9.44"
+    },
+    {
+        "Rank": "265",
+        "Name": "IIFL",
+        "Sub-Sector": "Investment Banking & Brokerage",
+        "Market Cap": "14,248.90",
+        "Alpha": "0.46",
+        "Beta": "1.47",
+        "EPS (Q)": "-3.72"
+    },
+    {
+        "Rank": "266",
+        "Name": "ACE",
+        "Sub-Sector": "Heavy Machinery",
+        "Market Cap": "14,209.24",
+        "Alpha": "53.06",
+        "Beta": "1.82",
+        "EPS (Q)": "9.38"
+    },
+    {
+        "Rank": "267",
+        "Name": "HBLENGINE",
+        "Sub-Sector": "Batteries",
+        "Market Cap": "14,066.26",
+        "Alpha": "67.76",
+        "Beta": "1.34",
+        "EPS (Q)": "2.31"
+    },
+    {
+        "Rank": "268",
+        "Name": "BSOFT",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "13,946.39",
+        "Alpha": "-0.86",
+        "Beta": "1.3",
+        "EPS (Q)": "4.2"
+    },
+    {
+        "Rank": "269",
+        "Name": "JWL",
+        "Sub-Sector": "Rail",
+        "Market Cap": "13,825.90",
+        "Alpha": "73.45",
+        "Beta": "0.95",
+        "EPS (Q)": "2.29"
+    },
+    {
+        "Rank": "270",
+        "Name": "JYOTHYLAB",
+        "Sub-Sector": "FMCG - Household Products",
+        "Market Cap": "13,513.49",
+        "Alpha": "32.16",
+        "Beta": "0.96",
+        "EPS (Q)": "2.38"
+    },
+    {
+        "Rank": "271",
+        "Name": "FINCABLES",
+        "Sub-Sector": "Cables",
+        "Market Cap": "13,509.13",
+        "Alpha": "14.43",
+        "Beta": "1.28",
+        "EPS (Q)": "9.63"
+    },
+    {
+        "Rank": "272",
+        "Name": "AAVAS",
+        "Sub-Sector": "Home Financing",
+        "Market Cap": "13,466.11",
+        "Alpha": "-22.59",
+        "Beta": "1.09",
+        "EPS (Q)": "18"
+    },
+    {
+        "Rank": "273",
+        "Name": "TTML",
+        "Sub-Sector": "Telecom Services",
+        "Market Cap": "13,434.26",
+        "Alpha": "-23.44",
+        "Beta": "0.98",
+        "EPS (Q)": "-1.61"
+    },
+    {
+        "Rank": "274",
+        "Name": "HFCL",
+        "Sub-Sector": "Telecom Equipments",
+        "Market Cap": "13,272.48",
+        "Alpha": "2.59",
+        "Beta": "1.81",
+        "EPS (Q)": "0.51"
+    },
+    {
+        "Rank": "275",
+        "Name": "INDIAMART",
+        "Sub-Sector": "Online Services",
+        "Market Cap": "13,032.69",
+        "Alpha": "-8.72",
+        "Beta": "0.82",
+        "EPS (Q)": "20.18"
+    },
+    {
+        "Rank": "276",
+        "Name": "MGL",
+        "Sub-Sector": "Gas Distribution",
+        "Market Cap": "12,859.39",
+        "Alpha": "11.67",
+        "Beta": "1.07",
+        "EPS (Q)": "22.39"
+    },
+    {
+        "Rank": "277",
+        "Name": "IFCI",
+        "Sub-Sector": "Specialized Finance",
+        "Market Cap": "12,803.98",
+        "Alpha": "45.85",
+        "Beta": "1.15",
+        "EPS (Q)": "0.32"
+    },
+    {
+        "Rank": "278",
+        "Name": "GESHIP",
+        "Sub-Sector": "Oil & Gas - Storage & Transportation",
+        "Market Cap": "12,749.11",
+        "Alpha": "32.75",
+        "Beta": "1.09",
+        "EPS (Q)": "41.58"
+    },
+    {
+        "Rank": "279",
+        "Name": "NCC",
+        "Sub-Sector": "Construction & Engineering",
+        "Market Cap": "12,522.40",
+        "Alpha": "33.98",
+        "Beta": "1.82",
+        "EPS (Q)": "3.08"
+    },
+    {
+        "Rank": "280",
+        "Name": "SONATSOFTW",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "12,320.44",
+        "Alpha": "9.57",
+        "Beta": "1.63",
+        "EPS (Q)": "3.78"
+    },
+    {
+        "Rank": "281",
+        "Name": "RKFORGE",
+        "Sub-Sector": "Rail",
+        "Market Cap": "12,146.25",
+        "Alpha": "40.53",
+        "Beta": "1.51",
+        "EPS (Q)": "5.51"
+    },
+    {
+        "Rank": "282",
+        "Name": "BEML",
+        "Sub-Sector": "Rail",
+        "Market Cap": "12,010.27",
+        "Alpha": "22.65",
+        "Beta": "1.5",
+        "EPS (Q)": "5.86"
+    },
+    {
+        "Rank": "283",
+        "Name": "WELSPUNLIV",
+        "Sub-Sector": "Textiles",
+        "Market Cap": "11,885.34",
+        "Alpha": "-1.04",
+        "Beta": "1.19",
+        "EPS (Q)": "1.27"
+    },
+    {
+        "Rank": "284",
+        "Name": "TITAGARH",
+        "Sub-Sector": "Rail",
+        "Market Cap": "11,322.70",
+        "Alpha": "79.78",
+        "Beta": "1.79",
+        "EPS (Q)": "5.99"
+    },
+    {
+        "Rank": "285",
+        "Name": "NSLNISP",
+        "Sub-Sector": "Iron & Steel",
+        "Market Cap": "11,130.44",
+        "Alpha": "-",
+        "Beta": "-",
+        "EPS (Q)": "-2.59"
+    },
+    {
+        "Rank": "286",
+        "Name": "J&KBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "10,980.99",
+        "Alpha": "27.5",
+        "Beta": "1.66",
+        "EPS (Q)": "4.8"
+    },
+    {
+        "Rank": "287",
+        "Name": "RITES",
+        "Sub-Sector": "Business Support Services",
+        "Market Cap": "10,486.77",
+        "Alpha": "15.97",
+        "Beta": "0.54",
+        "EPS (Q)": "2.08"
+    },
+    {
+        "Rank": "288",
+        "Name": "HAPPSTMNDS",
+        "Sub-Sector": "IT Services & Consulting",
+        "Market Cap": "10,412.05",
+        "Alpha": "-20.55",
+        "Beta": "1.08",
+        "EPS (Q)": "3.33"
+    },
+    {
+        "Rank": "289",
+        "Name": "RAILTEL",
+        "Sub-Sector": "Communication & Networking",
+        "Market Cap": "10,387.17",
+        "Alpha": "39.49",
+        "Beta": "1.07",
+        "EPS (Q)": "2.03"
+    },
+    {
+        "Rank": "290",
+        "Name": "PVRINOX",
+        "Sub-Sector": "Theatres",
+        "Market Cap": "10,353.22",
+        "Alpha": "-17.81",
+        "Beta": "1",
+        "EPS (Q)": "3.66"
+    },
+    {
+        "Rank": "291",
+        "Name": "INTELLECT",
+        "Sub-Sector": "Software Services",
+        "Market Cap": "10,247.30",
+        "Alpha": "-1.46",
+        "Beta": "2.14",
+        "EPS (Q)": "5.11"
+    },
+    {
+        "Rank": "292",
+        "Name": "OLECTRA",
+        "Sub-Sector": "Electrical Components & Equipments",
+        "Market Cap": "10,235.06",
+        "Alpha": "15.78",
+        "Beta": "1.96",
+        "EPS (Q)": "5.64"
+    },
+    {
+        "Rank": "293",
+        "Name": "RBLBANK",
+        "Sub-Sector": "Private Banks",
+        "Market Cap": "9,750.75",
+        "Alpha": "-4.28",
+        "Beta": "1.76",
+        "EPS (Q)": "0.78"
+    },
+    {
+        "Rank": "294",
+        "Name": "DATAPATTNS",
+        "Sub-Sector": "Aerospace & Defense Equipments",
+        "Market Cap": "9,623.92",
+        "Alpha": "29.75",
+        "Beta": "-",
+        "EPS (Q)": "7.97"
+    },
+    {
+        "Rank": "295",
+        "Name": "ZEEL",
+        "Sub-Sector": "TV Channels & Broadcasters",
+        "Market Cap": "9,582.14",
+        "Alpha": "-35.89",
+        "Beta": "1.35",
+        "EPS (Q)": "1.7"
+    },
+    {
+        "Rank": "296",
+        "Name": "RAYMOND",
+        "Sub-Sector": "Apparel & Accessories",
+        "Market Cap": "9,427.34",
+        "Alpha": "33.89",
+        "Beta": "1.36",
+        "EPS (Q)": "10.84"
+    },
+    {
+        "Rank": "297",
+        "Name": "GMDCLTD",
+        "Sub-Sector": "Mining - Diversified",
+        "Market Cap": "8,975.55",
+        "Alpha": "23.36",
+        "Beta": "1.32",
+        "EPS (Q)": "4.64"
+    },
+    {
+        "Rank": "298",
+        "Name": "CHENNPETRO",
+        "Sub-Sector": "Oil & Gas - Refining & Marketing",
+        "Market Cap": "7,464.18",
+        "Alpha": "58.34",
+        "Beta": "1.13",
+        "EPS (Q)": "1.4"
+    },
+    {
+        "Rank": "299",
+        "Name": "TANLA",
+        "Sub-Sector": "Software Services",
+        "Market Cap": "7,064.72",
+        "Alpha": "-42.21",
+        "Beta": "1.99",
+        "EPS (Q)": "8.82"
+    },
+    {
+        "Rank": "300",
+        "Name": "SWSOLAR",
+        "Sub-Sector": "Renewable Energy Equipment & Services",
+        "Market Cap": "6,726.97",
+        "Alpha": "-7.02",
+        "Beta": "2.39",
+        "EPS (Q)": "0.64"
+    }
+]
